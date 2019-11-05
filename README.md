@@ -1,24 +1,6 @@
-# README
+Nomster is a Yelp clone.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Google Map API, Star Ratings, user comments, user authentication, and user photos are integrated.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Deployed at:
+https://nomster-amelia-knipp.herokuapp.com/
